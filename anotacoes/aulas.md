@@ -11,6 +11,7 @@
 | **Front-end**    | React (JS) • Vue (JS) • Angular (JS)                                                    |
 
 
+
 ## Aula 01 27/08/2025
 
 - Verificação e aprovação de trabalho pelo professor
@@ -51,3 +52,36 @@ Quando subimos o dokcer compose a versão da imagem é gerada na primeira linha,
 #### Ambientes para o trabalho
 
 - Ambiente local e de Produção (CI / CD com testes de integração 7980)
+
+
+
+##  Aula 10/09/2025
+
+- Backend -> API
+
+
+Boas práticas de API, uma tabela por API.
+
+ORM -> Consome dados do banco e entregam para API
+
+FAST API -> SQL alchemy
+
+SWAGGER -> Documentação da API
+
+https:localhost:<portalocal\>/docs
+
+JWT -> gera token de autenticação ( Ponto de controle 2) em um repositorio separado, container separado.
+
+cobertura de testes de front será feito via selenium.
+teste integração ( aponta pro end point para ver se o parametro esta correto)
+
+## Aula 17/09/2025
+
+Refatoração
+- Clean Code
+- Enum (conjunto de numeros que são variaveis)
+- No codigo precisa especificar o enum (no dicionário de dados), nao precisa no uml, mas precisa cita-lo
+- Repetição de código.
+- ORM
+- PEP8 (guia de estilo em python)
+- **Lint** vai avaliar se foi escrito no guia corretamente 

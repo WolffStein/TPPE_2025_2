@@ -85,3 +85,16 @@ Refatoração
 - ORM
 - PEP8 (guia de estilo em python)
 - **Lint** vai avaliar se foi escrito no guia corretamente 
+
+
+## Aula 06/10/2025
+
+Ponto de Controle 2:
+
+- Backend Completo
+- Testes Completo ( Unitários / Integração(testa o endpoint) e Parametrizados (passando mais de 2 parametros = parametrizado) )
+- Teste dentro do docker (Executar dentro do compose up)
+- Lint nota 10
+- Refatoração ( Cleancode, Solid )
+- API de autenticação em repositorio separado. **Usar o Render para hospedar os repositorios**
+- Modelagem completa do Banco ( Modelo Fisico, DDL )

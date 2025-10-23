@@ -97,4 +97,13 @@ Ponto de Controle 2:
 - Lint nota 10
 - Refatoração ( Cleancode, Solid )
 - API de autenticação em repositorio separado. **Usar o Render para hospedar os repositorios**
-- Modelagem completa do Banco ( Modelo Fisico, DDL )
+- Modelagem completa do Banco ( Modelo Fisico, DDL(colocar um comment dentro do BD ja gera ele ) )
+
+
+
+# Ponto de Controle 3:
+
+- Hospedagem Completa 
+- Front Completo
+- Teste automatizado ( Selenium(abrir cada pagina ja hosteada e vai clicando em tudo ), cypers )
+- O selenium fica do lado de fora, pois ele é um teste automatizado para o front.

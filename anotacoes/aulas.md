@@ -107,3 +107,10 @@ Ponto de Controle 2:
 - Front Completo
 - Teste automatizado ( Selenium(abrir cada pagina ja hosteada e vai clicando em tudo ), cypers )
 - O selenium fica do lado de fora, pois ele é um teste automatizado para o front.
+
+
+
+----
+# sabino
+
+como rodar a venv no windows
